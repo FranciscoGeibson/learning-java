@@ -39,6 +39,6 @@ public class entradaDeDados {
       */
      c = sc.next().charAt(0);
      System.out.println("a letra é: " + c);
-     sc.close();
+     sc.close(); // comando onde fechará o Scanner e o que foi inserido nele.
 }
 }
