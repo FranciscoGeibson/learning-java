@@ -1,2 +1,2 @@
-# estudo-em-java
-Estudo sobre a sintaxe do java
+# learning-java
+little about the syntax of the Java programming language.
